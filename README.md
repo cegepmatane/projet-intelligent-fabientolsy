@@ -4,6 +4,9 @@ projet-intelligent-fabientolsy created by GitHub Classroom
 
 ## Detection des fakes news
 https://github.com/Nevermind-s/Fake-news-detection
+https://github.com/d-coder111/FNDetectoApp
+https://github.com/Areesha-Tahir/Fake-News-Detection-Using-Naive-Bayes
+https://github.com/Nirzak/Bangla-Fake-News-API
 
 ## Ami IA
 https://github.com/olivia-ai/olivia
