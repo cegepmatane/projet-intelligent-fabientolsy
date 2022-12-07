@@ -28,3 +28,9 @@ https://github.com/maeln/PTE
 
 ## Chatbot
 https://github.com/FreeBirdsCrew/AI_ChatBot_Python
+
+
+# Projets inspirants
+
+## Projet inspirant 1
+https://docs.google.com/document/d/17j9HV7oEk0dz14AY8XD5Bk9A2oIoDs6LDsfqaGf2U08/edit?usp=sharing
