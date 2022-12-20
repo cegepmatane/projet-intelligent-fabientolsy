@@ -42,6 +42,9 @@ https://docs.google.com/document/d/17j9HV7oEk0dz14AY8XD5Bk9A2oIoDs6LDsfqaGf2U08/
 ## Projet inspirant 2
 https://docs.google.com/document/d/1v5bslZuOcFbHEL6uH-prf7PN3-gDfOx6d7-8l5OZGO8/edit?usp=sharing
 
+## Projet inspirant 3
+https://docs.google.com/document/d/1QbswxlGSjyErC5xmVnVIkrx6QEzgnzNoUmKxu7ViDZI/edit?usp=sharing
+
 # Fiches 
 
 ## Formulation de mon projet
