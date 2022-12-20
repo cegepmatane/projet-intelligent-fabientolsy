@@ -1,6 +1,10 @@
 # projet-intelligent-fabientolsy
 projet-intelligent-fabientolsy created by GitHub Classroom
 
+# Idees de projet
+
+## Detecteur de chien et de chat 
+https://thedatafrog.com/fr/articles/dogs-vs-cats/
 
 ## Detection des fakes news
 https://github.com/Nevermind-s/Fake-news-detection
