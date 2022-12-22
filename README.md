@@ -55,8 +55,12 @@ https://docs.google.com/document/d/1_efXemvF4YDkxet5JX90qq-avmI7NyJRLtH3m6mPSCo/
 
 https://docs.google.com/document/d/1_Li0qIEMXeTjNRAAfwBF3TwH9f26mMUeeyMdvPU96Gg/edit?usp=sharing
 
-#
+## Apprentissage
+https://docs.google.com/document/d/1VN3ybcjzhaRL03KtzewV-0THeco_yxUMzbAFg2blzj4/edit?usp=sharing
 
-Demo finale: 
+## Test
+https://docs.google.com/document/d/1WCX_PGTyhQWAK0WdOY0xoBCxoVhT9w4CedAfYnoJmkQ/edit?usp=sharing
+
+# Demo finale: 
 
 https://youtu.be/fMthFhJyQVE
