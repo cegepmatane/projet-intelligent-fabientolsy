@@ -63,4 +63,6 @@ https://docs.google.com/document/d/1WCX_PGTyhQWAK0WdOY0xoBCxoVhT9w4CedAfYnoJmkQ/
 
 # Demo finale: 
 
-https://youtu.be/fMthFhJyQVE
+YouTube: https://youtu.be/fMthFhJyQVE
+
+Collab: https://colab.research.google.com/drive/1JXdIGDHQue7S24_r-qxvdfPdN7XR41sj?usp=sharing
