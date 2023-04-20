@@ -1,4 +1,4 @@
-# projet-intelligent-fabientolsy
+# Projet Intelligent Fabien Tolsy
 projet-intelligent-fabientolsy created by GitHub Classroom
 
 # Idees de projet
